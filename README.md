@@ -1,4 +1,4 @@
-## These are some health related projects which I have tried. They are guided projects and I ahve also added something from my own and changed some stuff.
+## These are some health related projects which I have tried. They are guided projects and I have also added something from my own and changed some stuff.
 
 ### It include:
 1. Heart Disease prediction
