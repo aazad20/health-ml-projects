@@ -2,7 +2,7 @@
 
 ### It include:
 1. Heart Disease prediction
-2. Calories lose prediction
+2. Calories loss prediction
 3. Parkinson's Disease prediction
 
 ### Data sets are fetched from Kaggle and UCI Machine Learning Repositories. 
